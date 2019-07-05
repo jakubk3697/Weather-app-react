@@ -1,0 +1,27 @@
+.result {
+    padding: 40px;
+    margin-right: 20px;
+    padding-top: 20px;
+    border-top: 2px solid #ddd;
+}
+
+.cityTitle {
+    font-size: 50px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+
+.result span {
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.result p {
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    line-height: 2;
+}
